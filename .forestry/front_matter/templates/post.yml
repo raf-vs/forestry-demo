@@ -40,4 +40,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/testitem-en.html
+- _posts/testitem.en.html
